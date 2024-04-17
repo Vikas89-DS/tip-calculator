@@ -1,5 +1,6 @@
 # tip-calculator
 calculating tip on given amount
+
 bill = int(input("please enter the amount.\n"))
 
 people = int(input("please enter the no. of people.\n"))
